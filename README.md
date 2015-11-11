@@ -9,4 +9,4 @@ Source code of program written in LABView with image processing toolkit to track
 * Interface includes a live feed of periodic table and user input
 
 Video of working system: 
-[https://www.youtube.com/watch?v=g0YdMP3PzrI](http://)
+[https://www.youtube.com/watch?v=g0YdMP3PzrI](https://www.youtube.com/watch?v=g0YdMP3PzrI)
